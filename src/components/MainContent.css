@@ -1,0 +1,57 @@
+.section {
+  margin-bottom: 20px;
+}
+
+.section h2 {
+  font-size: 1.5em;
+  color: #333;
+  border-bottom: 2px solid #d45d79;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.experience,
+.education {
+  margin-bottom: 15px;
+}
+
+.experience h3,
+.education h3 {
+  font-size: 1.2em;
+  color: #555;
+}
+
+.experience p,
+.education p {
+  font-size: 1em;
+  color: #666;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+  font-size: 1em;
+  color: #333;
+  margin: 5px 0;
+}
+
+.experience,
+.education {
+  margin-bottom: 20px;
+}
+
+.experience h3,
+.education h3 {
+  font-size: 1.2em;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.experience p,
+.education p {
+  color: #555;
+  font-size: 0.95em;
+  margin: 2px 0;
+}
